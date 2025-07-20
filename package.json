@@ -11,11 +11,18 @@
   "dependencies": {
     "ejs": "^3.1.10",
     "ejs-mate": "^4.0.0",
-    "express": "^5.1.0",
-    "method-overload": "^0.1.1",
+    "express": "^4.18.2",
+    "joi": "^17.13.3",
     "method-override": "^3.0.0",
-    "mongoose": "^8.16.1",
-    "mongoosh": "^0.0.7"
+    "mongoose": "^8.16.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simaPaudel/Wanderlust.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simaPaudel/Wanderlust/issues"
+  },
+  "homepage": "https://github.com/simaPaudel/Wanderlust#readme",
   "description": ""
 }
